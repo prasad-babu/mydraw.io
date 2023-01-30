@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-30T07:05:28.410Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="l5i_eNUUWYntAXLQVdhE" version="20.8.13" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-30T09:55:44.123Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="64C33HvZTSBNPlyz_Zop" version="20.8.13" type="github">
   <diagram id="6JjqR04NzSdjiCu4Dxnf" name="Page-1">
     <mxGraphModel dx="880" dy="421" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -25,7 +25,7 @@
         <mxCell id="g1a5hRw7U2E6IYuk5Pdz-8" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Logging&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="390" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="g1a5hRw7U2E6IYuk5Pdz-10" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Centralized Logs location (Prometheus storage)&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" parent="1" vertex="1">
+        <mxCell id="g1a5hRw7U2E6IYuk5Pdz-10" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Centralized Logs location&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="140" y="515" width="640" height="70" as="geometry" />
         </mxCell>
         <mxCell id="g1a5hRw7U2E6IYuk5Pdz-11" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#fa6800;strokeColor=#C73500;" parent="1" source="g1a5hRw7U2E6IYuk5Pdz-2" edge="1">
@@ -46,7 +46,7 @@
             <mxPoint x="440" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="g1a5hRw7U2E6IYuk5Pdz-15" value="Centralized logging interface (Prometheus)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="1" vertex="1">
+        <mxCell id="g1a5hRw7U2E6IYuk5Pdz-15" value="Centralized logging interface" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="1" vertex="1">
           <mxGeometry x="130" y="380" width="620" height="60" as="geometry" />
         </mxCell>
         <mxCell id="g1a5hRw7U2E6IYuk5Pdz-17" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=20;entryX=0.486;entryY=0.019;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#fa6800;strokeColor=#C73500;" parent="1" target="g1a5hRw7U2E6IYuk5Pdz-10" edge="1">
