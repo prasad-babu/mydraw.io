@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-01-31T06:58:31.580Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="EeA_ZeDXF_8XKd1ojBWx" version="20.8.13" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-31T06:59:01.205Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="g6TvztLvkjl9UnZTBpkm" version="20.8.13" type="github">
   <diagram id="6JjqR04NzSdjiCu4Dxnf" name="Page-1">
     <mxGraphModel dx="880" dy="421" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="g1a5hRw7U2E6IYuk5Pdz-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#66D6FF;" parent="1" vertex="1">
+        <mxCell id="g1a5hRw7U2E6IYuk5Pdz-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="80" y="90" width="740" height="380" as="geometry" />
         </mxCell>
         <mxCell id="g1a5hRw7U2E6IYuk5Pdz-2" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 24px;&quot;&gt;Service A&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
